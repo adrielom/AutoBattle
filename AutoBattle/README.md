@@ -13,3 +13,4 @@ This is an RPG-ish game that automatically runs a battle fight between two chara
 7. The Team class is responsible for managing the Teams' states.
 8. The Utils class is gives a toolset of functions that can be accessed by multiple other classes interchangeably
 9. The Types file unifies many different structs and classes that are used as data structures for the game logic
+10. Based on my birthday date (Feb) I had to implement a team based system.
