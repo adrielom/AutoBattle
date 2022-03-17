@@ -1,3 +1,7 @@
+# The Entry point is located at ./AutoBattle/Program.cs
+
+## Assignment
+
 ========================================================================
     Turn RPG system
 
