@@ -2,7 +2,7 @@
 
 This is an RPG-ish game that automatically runs a battle fight between two characters of different types.
 
-###Logs
+### Logs
 
 1. The folder stucture was modified, some extra files - duplicated - such as the Character.cs and the Grid.cs were deleted.
 2. The project core is located at the Program.cs file. It's going to run the game main thread and the game logic.
